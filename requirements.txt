@@ -9,3 +9,4 @@ tensorflow==2.4.0
 Keras==2.2.4
 Pillow==8.1.1
 xlrd == 1.0.0 
+waitress
