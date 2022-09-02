@@ -2,8 +2,8 @@ Flask
 pandas
 librosa
 ffmpeg
-numba==0.50
-numpy==1.22.0
+numba
+numpy
 matplotlib
 tensorflow
 Keras
