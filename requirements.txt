@@ -3,10 +3,10 @@ pandas==0.24.2
 librosa==0.7.0
 ffmpeg==1.4
 numba==0.50
-numpy==1.22.0
+numpy
 matplotlib==3.1.0
 tensorflow==2.5.0
 Keras==2.2.4
-Pillow>=8.1.1
-xlrd == 1.0.0 
+Pillow
+xlrd
 
